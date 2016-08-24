@@ -2,8 +2,7 @@
 第一行代码的拍照和选择图库照片，有改动
 
 # 演示 
-![yanshi](https://github.com/tuionf/ChoosePicTest/blob/master/app/src/main/res/drawable/yanshi.gif
-)
+![yanshi](http://upload-images.jianshu.io/upload_images/19590-b4bf655107076782.gif?imageMogr2/auto-orient/strip)
 
 #  笔记 
 点击拍照
